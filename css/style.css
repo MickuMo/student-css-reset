@@ -28,7 +28,7 @@ html {
 img,video{
   width: auto; 
   height: auto;
-  max-width: 1em; 
+  max-width: 100%; 
 }
 
 
